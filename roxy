@@ -1,9 +1,7 @@
 #EXTM3U 
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1,ReMy_ReMy_ULUSAL
-ReMy_ReMy_ULUSAL
 #EXTINF:-1 group-title="ReMy_ULUSAL",ATV HD
-https://mn-nl.mncdn.com/blutv_atv/smil:atv_hd.smil/playlist.m3u8
+https://az2.canlitvplayer.com/turk/atv_turk_sd/chunks.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",Kanal D HD
 https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",Kanal D HD
