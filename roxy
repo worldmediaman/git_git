@@ -3,25 +3,31 @@
 #EXTINF:-1,ReMy_ReMy_ULUSAL
 ReMy_ReMy_ULUSAL
 #EXTINF:-1 group-title="ReMy_ULUSAL",ATV HD
-https://mn-nl.mncdn.com/blutv_atv/smil:atv_hd.smil/playlist.m3u8
+http://streams2.livetv.az/turk/atv_turk_sd/chunks.m3u8?
 #EXTINF:-1 group-title="ReMy_ULUSAL",Kanal D HD
 https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_ULUSAL",Kanal D HD
+#EXTINF:-1 group-title="ReMy_ULUSAL",Kanal D  
 http://streams2.livetv.az/turk/kanald_stream/chunks.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",EURO D HD
+https://mn-nl.mncdn.com/blutv_eurod/eurod_sd.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",STAR HD
 http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
-#EXTINF:-1 group-title="ReMy_ULUSAL",STAR HD
+#EXTINF:-1 group-title="ReMy_ULUSAL",STAR TV
 http://streams2.livetv.az/turk/star_stream/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",EURO STAR
 http://xrklj56s.rocketcdn.com/eurostar.stream_720p/chunklist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",SHOW TV HD
 https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_ULUSAL",FX HD
-https://mn-nl.mncdn.com/blutv_fx/smil:fx_hd.smil/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",SHOW TURK  
+https://mn-nl.mncdn.com/blutv_showturk/showturk_hd.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",FOX TV HD
 https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",TV8 HD
 https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_hd1.smil/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",tv8 int HD
+https://mn-nl.mncdn.com/blutv_tv8_int/tv8int_sd.smil/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",TV8.5 HD  
+https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_hd.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",Beyaz TV HD
 https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_hd.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",360 TV
@@ -58,6 +64,8 @@ https://5ab9557ae2fa9.streamlock.net/tgrt_haber/amlst:live-25/chunklist_w1011305
 http://akittv-live.ercdn.net/akittv/akittv.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",A SPOR HD
 https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",FX HD
+https://mn-nl.mncdn.com/blutv_fx/smil:fx_hd.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",DMAX HD
 http://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",TLC HD
