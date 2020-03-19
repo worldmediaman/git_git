@@ -3,15 +3,11 @@
 #EXTINF:-1,ReMy_ReMy_ULUSAL
 ReMy_ReMy_ULUSAL
 #EXTINF:-1 group-title="ReMy_ULUSAL",TRT 1 HD
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",TRT 1 HD
+http://streams2.livetv.az/turk/trt1_stream/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",TRT 1 HD
 http://84.22.33.210/trt1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ReMy_ULUSAL",Kanal D HD
-http://ott.artmott.com/KanalD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ReMy_ULUSAL",STAR HD
-http://ott.artmott.com/StarTvHd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ReMy_ULUSAL",FOX TV HD
-http://84.22.33.218/foxturkey/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ReMy_ULUSAL",SHOW TV HD
-http://ott.artmott.com/ShowTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",ATV HD
 http://ott.artmott.com/AtvHd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",ATV HD
@@ -20,16 +16,26 @@ https://mn-nl.mncdn.com/blutv_atv/smil:atv_hd.smil/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",Kanal D HD
 http://streams2.livetv.az/turk/kanald_stream/chunks.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",Kanal D HD
+http://ott.artmott.com/KanalD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",EURO D
+http://soledge4.dogannet.tv//S2/HLS_LIVE/eurod/index.m3u8   
 #EXTINF:-1 group-title="ReMy_ULUSAL",STAR HD
 http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",STAR HD
 http://streams2.livetv.az/turk/star_stream/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",STAR HD
+http://ott.artmott.com/StarTvHd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",EURO STAR
 http://xrklj56s.rocketcdn.com/eurostar.stream_720p/chunklist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",SHOW TV HD
+http://ott.artmott.com/ShowTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",SHOW TV HD
 https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_ULUSAL",FX HD
-https://mn-nl.mncdn.com/blutv_fx/smil:fx_hd.smil/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",SHOW TURK  
+https://mn-nl.mncdn.com/blutv_showturk/showturk_hd.smil/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",FOX TV HD
+http://84.22.33.218/foxturkey/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",FOX TV HD
 https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",TV8 HD
@@ -38,6 +44,8 @@ https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_hd1.smil/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_hd.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",360 TV
 https://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b864000.m3u8?__mn_sid=15075510848414370774
+#EXTINF:-1 group-title="ReMy_ULUSAL",FX HD
+https://mn-nl.mncdn.com/blutv_fx/smil:fx_hd.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",Bloomberght AUTO
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8?e=1579298706&st=OYDJwo58YPCIODOOaoVa5Q&tv=1&ce=1
 #EXTINF:-1 group-title="ReMy_ULUSAL",Bloomberght_720p
@@ -80,10 +88,6 @@ http://streams2.livetv.az/turk/minika_stream/playlist.m3u8
 http://mn-nl.mncdn.com/karamel/karamel/chunklist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",TGRT BELGESEL
 http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt1/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_ULUSAL",TRT 1 HD
-http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
-#EXTINF:-1 group-title="ReMy_ULUSAL",TRT 1 HD
-http://streams2.livetv.az/turk/trt1_stream/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",TRT ARABIA HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",TRT ÇOCUK
@@ -306,8 +310,10 @@ http://weather-lh.akamaihd.net:80/i/twc_1@92006/master.m3u8
 ReMy_SPORT
 #EXTINF:-1 group-title="ReMy_SPORT",A SPOR HD
 https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_SPORT",TRT Spor HD
-http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca
+#EXTINF:-1 group-title="ReMy_SPORT",TRT SPOR HD  
+http://iptvmasterlink.dyndns.org:8080/Entry/trtsporhd_yeni/index.m3u8 
+#EXTINF:-1 group-title="ReMy_SPORT",TRT SPOR HD 2
+http://iptvmasterlink.dyndns.org:8080/Entry/trtspor2hd_yeni/index.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",YENI MALATYA SPOR 
 http://5.39.105.79:1935/santraltv_925/santraltv_925/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/hr/SportKlub1.hr.png" group-title="ReMy_SPORT",Sport Klub 1
